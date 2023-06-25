@@ -77,4 +77,5 @@ email: 'sdhakecha159@gmail.com'
 highlight_name: true
 ---
 
-Welcome to my website! I am a researcher at the Mark and Mary Stevens Neuroimaging and Informatics Institute, USC, with a focus on machine learning for healthcare and natural language processing. Currently, I am passionately exploring the creative side of machine learning in the gaming industry, uncovering how this technology can revolutionize the field. {style="text-align: justify;"}
+Welcome to my website! I am a researcher at the Mark and Mary Stevens Neuroimaging and Informatics Institute, USC, with a focus on machine learning for healthcare and natural language processing. Currently, I am passionately exploring the creative side of machine learning in the gaming industry, uncovering how this technology can revolutionize the field. 
+{style="text-align: justify;"}
